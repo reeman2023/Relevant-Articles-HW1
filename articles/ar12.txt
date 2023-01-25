@@ -1,0 +1,10 @@
+Flexible robot hand with precise grip lifts 1000 times its own weight
+An 8-gram actuator - a device that converts energy and signals into movement - that operates as artificial muscles lifted 8 kilograms while maintaining human-like hand movements
+Tiny actuators – devices that convert energy and signals into movement – that operate as artificial muscles could lift up to 1000 times their own weight, according to research that may one day lead to robots with human-like grips.
+
+Corrado De Pascali and his colleagues at the Italian Institute of Technology have developed 3D-printed artificial muscles, created from actuators that convert energy into movement by inflating the artificial muscles. “We started from the traditional artificial muscle and developed a new class of artificial muscles made of a single monolithic component,” says De Pascali.
+The actuator membranes, called GeometRy-based Actuators that Contract and Elongate (GRACE), are 3D printed from a flexible resin that enables them to stretch and contract like a human muscle. The membrane was designed using a mathematical model created by the researchers.
+
+The GRACE actuators are different to previous generations of artificial muscles because they contain pleats in their membrane that fold and unfold, giving the artificial muscles more strength and flexibility.
+
+Depending on the material used to make the actuator and the material’s thickness, some actuators could lift relatively heavy items. When put to the test, one 8-gram actuator lifted 8 kilograms.

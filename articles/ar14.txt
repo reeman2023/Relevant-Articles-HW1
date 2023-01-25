@@ -1,0 +1,12 @@
+Artificial finger can identify what common material things are made of
+Smart finger uses sensors to detect substances such as glass, silicon and wood with more than 90 per cent accuracy, which could be useful for robotic manufacturing tasks
+
+An artificial finger can identify different materials with more than 90 per cent accuracy by sensing their surface. The technology could be useful for automating robotic manufacturing tasks, such as sorting and quality control.
+
+Touch sensors that can gain information about surfaces, such as their temperature or the force acting on them, aren’t new, but sensors that can recognise the type and roughness of surfaces are less common.
+
+Zhou Li at the Beijing Institute of Nanoenergy and Nanosystems and his colleagues have developed a finger that can identify what a material is made from by using triboelectric    sensors – which test its ability to gain or lose electrons – plus discern its roughness, without causing damage to it.
+
+When trialled on hundreds of samples of 12 substances including wood, glass, plastic and silicon, and combined with a machine learning-based data analysis, the finger achieved an average accuracy of 96.8 per cent and at least 90 per cent accuracy for all of the materials.
+
+The device consists of four small square sensors, each made of a different plastic polymer, chosen for their different electrical properties. When the sensors move close enough to the surface of an object, electrons from each square interact with the surface in a slightly different way, which can then be measured.
